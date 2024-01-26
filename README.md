@@ -1,4 +1,4 @@
-# AWS SSO CLI - Yong Test
+# AWS SSO CLI - Yong GHA-DD Integration Test
 
 [![Tests](https://github.com/synfinatic/aws-sso-cli/actions/workflows/tests.yml/badge.svg)](https://github.com/synfinatic/aws-sso-cli/actions/workflows/tests.yml)
 [![CodeQL](https://github.com/synfinatic/aws-sso-cli/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/synfinatic/aws-sso-cli/actions/workflows/codeql-analysis.yml)
