@@ -5,12 +5,12 @@ on:
     branches:
       - main
   pull_request:
-    types: [opened, synchronize, reopened]
-    paths:
-      - '.github/**'
-      - '**.go'
-      - go.mod
-      - go.sum
+    #types: [opened, synchronize, reopened]
+    #paths:
+    #  - '.github/**'
+    #  - '**.go'
+    #  - go.mod
+    #  - go.sum
 
 permissions:
   contents: read
